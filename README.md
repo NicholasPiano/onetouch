@@ -1,2 +1,2 @@
 # onetouch
-A single touch application
+A single touch iPhone application
